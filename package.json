@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gumipo/typeScript-forjavascript-developer/issues"
   },
-  "homepage": "https://github.com/gumipo/typeScript-forjavascript-developer#readme"
+  "homepage": "https://github.com/gumipo/typeScript-forjavascript-developer#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
